@@ -1,7 +1,7 @@
 # Hi! I'm Anton Kondratiuk 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&width=500&lines=Sr.+Software+Developer+@+Instabee;8++Years+in+Android+Native;AI+Enthusiast+%26+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&width=500&lines=Sr.+Software+Developer+@+Instabee;8++Years+in+Android+Native;AI+Enthusiast+%26+Developer" alt="Typing SVG" />
 </div>
 
 ---
